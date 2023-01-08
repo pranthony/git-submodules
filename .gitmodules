@@ -4,3 +4,9 @@
 [submodule "pruebas"]
 	path = pruebas
 	url = https://github.com/pranthony/pruebas
+[submodule "botz"]
+	path = botz
+	url = https://github.com/pranthony/botz
+[submodule "canva"]
+	path = canva
+	url = https://github.com/pranthony/botz
