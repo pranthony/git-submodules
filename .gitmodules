@@ -1,3 +1,6 @@
 [submodule "ecology"]
 	path = ecology
 	url = https://github.com/pranthony/ecology.git
+[submodule "pruebas"]
+	path = pruebas
+	url = https://github.com/pranthony/pruebas
