@@ -1,0 +1,3 @@
+[submodule "ecology"]
+	path = ecology
+	url = https://github.com/pranthony/ecology.git
